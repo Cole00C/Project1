@@ -1,8 +1,3 @@
-I was having a lot of trouble getting the cards to work so I choose to switch to something more simple. A slot machine!
+Game of War
 
-It will probably be pretty janky and hard to get to work but that's what I need to work through!
-
-the imgae links
-https://imgur.com/6yYrVKo (devil fruit)
-https://imgur.com/HxWPuZw (dragonball)
-https://imgur.com/icXCiRV (pokeball)
+I have failed to get it to work and woke up at my desk. This is all that I have.
